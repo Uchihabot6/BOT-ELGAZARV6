@@ -26,7 +26,7 @@ global.ownernomer = "201555279812" //ur number
 global.premium = ['201555279812'] //ur premium number
 global.botname = 'Uchiha Bot🩸' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
+global.websitex = "https://telegra.ph/file/76362b8bca1cb7129096c.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "💭" //ur theme emoji
 global.packname = "بوت مملكة اوتشيها🩸" //ur sticker watermark packname
@@ -49,7 +49,7 @@ global.mess = {
     private: '『 الميزه دي في الخاص بس! 』',
     bot: '『 الميزه دي للبوت بس! 』',
     wait: '『 انتظر قليلا💭 』',
-    linkm: '『 فين الرابط? 』',
+    linkm: '『 اين الرابط🗿💭 』',
     endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
 }
