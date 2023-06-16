@@ -171,7 +171,7 @@ XeonLft = await getBuffer(ppuser)
                 xeonbody = `⋆ اهلا بيك يا..
  @${xeonName.split("@")[0]},
 ꔹ━━━━━ꔹ
-⋆ نورت جروب..
+⋆ نورت جروب..ايش ذا النور الي هل فجأه اه تذكرت انت وصلت و نورتنا يا قلبي ❤✨
 ${metadata.subject}.
 ꔹ━━━━━ꔹ
 ⋆ عدد الاعضاء..
@@ -215,8 +215,8 @@ ElgazarBot.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     xeonbody = `⋆ مع السلامه 👋
 , @${xeonName.split("@")[0]}, 
 ꔹ━━━━━ꔹ
-⋆ حد يبقي في جروب قمر زي جروب
-${metadata.subject} ويغادر😂.
+⋆ في طريق السلامة  يا حب
+${metadata.subject} 
 ꔹ━━━━━ꔹ
 ⋆ عدد الاعضاء..
 ${xeonmembers} عضو
@@ -225,7 +225,7 @@ ${xeonmembers} عضو
 ${xeontime} ${xeondate}
 ꔹ━━━━━ꔹ`
 let buttons = [
-{buttonId: `wkwkwk`, buttonText: {displayText: 'مع السلامه تخرج يجي غيرك😉✨'}, type: 1}
+{buttonId: `wkwkwk`, buttonText: {displayText: 'واحد خرج بكرا جاي احسن منه🗿✨}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
@@ -240,7 +240,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `${ownername}`,
-body: `مع السلامه تخرج يجي غيرك😉✨.`,
+body: `واحد خرج بكرا يجي احسن منه🗿✨.`,
 mediaType:2,
 thumbnail: XeonLft,
 sourceUrl: `${websitex}`,
